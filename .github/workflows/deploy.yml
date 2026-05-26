@@ -20,6 +20,8 @@ jobs:
       - name: Verify site root contains Kinetic Gain Docs landing
         run: |
           test -f index.html || (echo "FAIL: no index.html at repo root" && exit 1)
+          test -f robots.txt || (echo "FAIL: no robots.txt at repo root" && exit 1)
+          test -f sitemap.xml || (echo "FAIL: no sitemap.xml at repo root" && exit 1)
           grep -q "Kinetic Gain Docs" index.html || (echo "FAIL: index.html does not mention Kinetic Gain Docs" && exit 1)
           echo "OK: site root verified"
           ls -lah

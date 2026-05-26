@@ -19,7 +19,7 @@ Per-role quickstart guides (CISO / school district / healthcare vendor / answer 
 
 ## Part of the Kinetic Gain Protocol Suite
 
-A family of **10 open JSON specifications** for the answer-engine and agent era — five core (AEO, Prompt Provenance, Agent Cards, AI Evidence Format, MCP Tool Cards), a three-spec EdTech trio (Tutor Cards / Student AI Disclosure / Classroom AI AUP), a HealthTech extension (Clinical AI Disclosure), and a cross-cutting Incident Card. **Two regulated verticals covered.**
+A family of **11 open JSON specifications** for the answer-engine and agent era — five core (AEO, Prompt Provenance, Agent Cards, AI Evidence Format, MCP Tool Cards), a three-spec EdTech trio (Tutor Cards / Student AI Disclosure / Classroom AI AUP), a HealthTech extension (Clinical AI Disclosure), a cross-cutting Incident Card, and an AI Procurement Decision Card. **Two regulated verticals covered.**
 
 - **Front door**: [suite.kineticgain.com](https://suite.kineticgain.com/)
 - **Quickstart hub**: [docs.kineticgain.com](https://docs.kineticgain.com/)
