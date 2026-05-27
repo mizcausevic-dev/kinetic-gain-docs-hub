@@ -1,8 +1,8 @@
 # Kinetic Gain Docs
 
-> Quickstart hub for the Kinetic Gain Protocol Suite.
+> Quickstart hub for the Kinetic Gain Protocol Suite, Atlas, and wider operator stack.
 
-Per-role quickstart guides (CISO / school district / healthcare vendor / answer engine / individual builder), plus the canonical /.well-known/ path map for every spec in the Suite. 30-second quickstart, then deeper per-role flows.
+Per-role quickstart guides (CISO / school district / healthcare vendor / answer engine / individual builder), plus the canonical /.well-known/ path map for every spec in the Suite. 30-second quickstart, then deeper per-role flows connected to the current 11-spec, 48-property ecosystem.
 
 ## Identity
 
@@ -15,7 +15,7 @@ Per-role quickstart guides (CISO / school district / healthcare vendor / answer 
 
 ## Pages
 
-- [/](https://docs.kineticgain.com/): Kinetic Gain Docs — Quickstart hub for the Kinetic Gain Protocol Suite.
+- [/](https://docs.kineticgain.com/): Kinetic Gain Docs — Quickstart hub for the Kinetic Gain Protocol Suite, Atlas, and wider operator stack.
 
 ## Part of the Kinetic Gain Protocol Suite
 
@@ -23,8 +23,8 @@ A family of **11 open JSON specifications** for the answer-engine and agent era 
 
 - **Front door**: [suite.kineticgain.com](https://suite.kineticgain.com/)
 - **Quickstart hub**: [docs.kineticgain.com](https://docs.kineticgain.com/)
-- **Unified MCP server** (34 tools, 8 specs, v0.4.0): [github.com/mizcausevic-dev/mcp-kinetic-gain](https://github.com/mizcausevic-dev/mcp-kinetic-gain)
-- **Unified visualizer** (8 renderers): [github.com/mizcausevic-dev/kinetic-gain-visualizer](https://github.com/mizcausevic-dev/kinetic-gain-visualizer)
+- **Unified MCP server** (47 tools, 11 specs): [github.com/mizcausevic-dev/mcp-kinetic-gain](https://github.com/mizcausevic-dev/mcp-kinetic-gain)
+- **Unified visualizer** (11 renderers): [github.com/mizcausevic-dev/kinetic-gain-visualizer](https://github.com/mizcausevic-dev/kinetic-gain-visualizer)
 - **Meta-repo**: [github.com/mizcausevic-dev/kinetic-gain-protocol-suite](https://github.com/mizcausevic-dev/kinetic-gain-protocol-suite)
 
 ## Author
