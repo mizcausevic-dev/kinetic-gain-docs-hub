@@ -2,7 +2,7 @@
 
 > Quickstart hub for the Kinetic Gain Protocol Suite, Atlas, and wider operator stack.
 
-Per-role quickstart guides (CISO / school district / healthcare vendor / answer engine / individual builder), plus the canonical /.well-known/ path map for every spec in the Suite. 30-second quickstart, then deeper per-role flows connected to the current 11-spec, 48-property ecosystem.
+Per-role quickstart guides (CISO / school district / healthcare vendor / answer engine / individual builder), plus the canonical /.well-known/ path map for every spec in the Suite. 30-second quickstart, then deeper per-role flows connected to the current 11-spec, 60+-property ecosystem.
 
 ## Identity
 
@@ -19,7 +19,7 @@ Per-role quickstart guides (CISO / school district / healthcare vendor / answer 
 
 ## Part of the Kinetic Gain Protocol Suite
 
-A family of **11 open JSON specifications** for the answer-engine and agent era — five core (AEO, Prompt Provenance, Agent Cards, AI Evidence Format, MCP Tool Cards), a three-spec EdTech trio (Tutor Cards / Student AI Disclosure / Classroom AI AUP), a HealthTech extension (Clinical AI Disclosure), a cross-cutting Incident Card, and an AI Procurement Decision Card. **Two regulated verticals covered.**
+A family of **11 open JSON specifications** for the answer-engine and agent era — five core (AEO, Prompt Provenance, Agent Cards, AI Evidence Format, MCP Tool Cards), a three-spec EdTech trio (Tutor Cards / Student AI Disclosure / Classroom AI AUP), a HealthTech extension (Clinical AI Disclosure), a cross-cutting Incident Card, and an AI Procurement Decision Card. The docs hub now also points into the wider Atlas, cloud-admin, biotech / diagnostics, nonprofit, and polyglot operator network built around those specs.
 
 - **Front door**: [suite.kineticgain.com](https://suite.kineticgain.com/)
 - **Quickstart hub**: [docs.kineticgain.com](https://docs.kineticgain.com/)

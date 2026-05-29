@@ -1,6 +1,6 @@
 # kinetic-gain-docs-hub
 
-Quickstart hub for the [Kinetic Gain Protocol Suite](https://suite.kineticgain.com), Atlas, and the wider Kinetic Gain operator stack. Per-role guides ("I'm a CISO," "I'm a school district," "I'm a healthcare vendor"), the canonical `/.well-known/` path map for every spec, and a 30-second quickstart aligned to the current 11-spec, 48-property ecosystem.
+Quickstart hub for the [Kinetic Gain Protocol Suite](https://suite.kineticgain.com), Atlas, and the wider Kinetic Gain operator stack. Per-role guides ("I'm a CISO," "I'm a school district," "I'm a healthcare vendor"), the canonical `/.well-known/` path map for every spec, and a 30-second quickstart aligned to the current 11-spec, 60+-property ecosystem, including newer cloud-admin, biotech, diagnostics, nonprofit, and polyglot surfaces.
 
 Live at **[docs.kineticgain.com](https://docs.kineticgain.com)**.
 
